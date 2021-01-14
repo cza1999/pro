@@ -1,0 +1,126 @@
+快捷键    中文名称
+Ctrl+R    替换文本
+Ctrl+1    单行注释，单次注释，双次取消注释
+Ctrl+4    块注释，单次注释，双次取消注释
+F5    运行程序
+Ctrl+P    文件切换
+Ctrl+L    清除shell
+Ctrl+I    查看某个函数的帮助文档
+Ctrl+Shift+V    调出变量窗口
+Ctrl+up    回到文档开头
+Ctrl+down    回到文档末尾
+全部快捷键
+context    name    shortcut    中文名称
+-    close page    Ctrl+Shift +F4    关闭页面
+-    configure    Ctrl+F6    配置
+-    debug continue    Ctrl+F12    继续调试
+-    debug exit    Ctrl+Shift+F12    调试退出
+-    debug step into    Ctrl+F11    调试进入函数
+-    debug step over    Ctrl+F10    调试跳出函数
+-    debug step return    Ctrl+Shift+F11    调试返回
+-    debug    Ctrl+F5    调试
+-    file switche    Ctrl+P    文件切换
+-    find next    F3    查找下一个文件
+-    find previous    Shift+F3    找到以前的文件
+-    find text    Ctrl+F    找到文本
+-    fullscreen mode    F11    全屏模式
+-    hide find and replace    EShiftCtrl    隐藏查找和替换
+-    layout preferences    Alt+Shift+P    布局的设置
+-    lock unlock panes    Ctrl+Shift+F5    锁解锁窗格
+-    maximize pane    Ctrl+Alt+Shift+M    最大化窗格
+-    preferneces    Ctrl +Alt +Shift+P    偏好
+-    quit    Ctrl +Q    退出
+-    re-run last script    F6    最后重新运行脚本
+-    repalce text    Ctrl +R    替换文本
+-    restart    Alt +Shift+R    重新启动
+-    run    F5    运行
+-    save current layout    Alt +Shift+ S    保存当前的布局
+-    show toolbars    Alt +Shift+T    显示工具栏
+-    spyder documentation    F11    spyder的文档
+-    switch to breakpoints    Ctrl +Shift+B    切换到断点
+-    switch to console    Ctrl +Shift+C    切换到控制台
+-    switch to editor    Ctrl +Shift+E    切换到编辑器
+-    switch to explorer    Ctrl +Shift+X    切换到浏览器
+-    switch t find_in_files    Ctrl +Shift+F    切换到 find_in_files
+-    switch to help    Ctrl +Shift+H    切换到帮助
+-    switch to historylog    Ctrl +Shift+L    切换到historylog
+-    switch to ipython_console    Ctrl +Shift+I    切换到ipython_console
+-    switch to onlinehelp    Ctrl +Shift+D    切换到onlinehelp
+-    switch to outline_explorer    Ctrl +Shift+O    切换到outline_explorer
+-    switch to project_explorer    Ctrl +Shift+P    切换到project_explorer
+-    switch to variable_explorer    Ctrl +Shift+v    切换到variable_explorer
+-    symbol finder    Ctrl +Alt +P    符号查找器
+-    use next layout    Alt +Shift+PageDoen    使用下一个布局
+-    use previous layout    Alt +Shift+PageUp    使用上一个布局
+array_builer    enter array inline    Ctrl +Alt +M    进入array内联
+array_builer    enter array table    Ctrl +M    进入array表
+console    clear line    Shift+Esc    清除行
+console    clear shell    Ctrl +L    清除shell
+editor    inspect current object    Ctrl +I    检查当前对象
+editor    breakpoint    F12    断点
+editor    blockcomment    Ctrl +4    
+editor    close all    Ctrl +Shift+W    关闭所有
+editor    close file 1    Ctrl +W    关闭文件1
+editor    close file 2    Ctrl +F4    关闭文件2
+editor    code completion    Ctrl +Space    代码自动完成
+editor    conditional breakpoint    SF12    条件断点
+editor    copy line    Ctrl +Alt +Down    复制行
+editor    copy line    Ctrl +C    复制行
+editor    cut    Ctrl +X    减少
+editor    delete line    Ctrl +D    删除一行
+editor    delete line    Del    删除一行
+editor    duplicate line    Ctrl +Alt +Up    重复的行
+editor    end of document    Ctrl +Down    最终的文档
+editor    end of line    Meta + E    每行的最后
+editor    go to definition    Ctrl +G    去定义
+editor    go to line    Ctrl +L    去行
+editor    go to next file    Ctrl +Shift+Tab    去下一个文件
+editor    go to previous file    Ctrl +Tab    去之前的文件
+editor    inspect current object    Ctrl +I    检查当前对象
+editor    kell next word    Meta+D    清楚下一个单词
+editor    kill previous word    Meta+B    清除上一个单词
+editor    kill to line end    Meta+K    清楚行的终点
+editor    kill to line start    Meta+U    清除行的开始
+editor    last edit location    Ctrl +Alt +Shift+L    最后编辑位置
+editor    move line down    Alt +Down    线向下移动
+editor    move line up    Alt +Up    线向上移动
+editor    new file    Ctrl +N    新建文件
+editor    next char    Meta+F    下一个单词
+editor    next cursor position    Ctrl +Alt +Right    下一个光标位置
+editor    next line    Meta+N    下一行
+editor    next word    Meta+Right    下一个词
+editor    open file    Ctrl +O    打开的文件
+editor    open last closed    Ctrl +Shift+T    打开上次关闭
+editor    paste    Ctrl +V    粘贴
+editor    previous char    Meta+B    之前的字符
+editor    previous cursor position    Ctrl +Alt +L    前一光标位置
+editor    previous line    Meta+P    前一行
+editor    previous word    Meta+L    以前的单词
+editor    redo    Ctrl +Shift+Z    重做
+editor    rotate kill ring    Meta+Shift+Y    旋转杀死环
+editor    run cell and advance    Shift+R    细胞和推进
+editor    run cell    Ctrl +R    运行单元
+editor    run selection    F9    选择运行
+editor    save all    Ctrl +Alt +S    保存所有
+editor    save as    Ctrl +Shift+S    另存为
+editor    save file    Ctrl +S    保存文件
+editor    select all    Ctrl +A    选择所有
+editor    show/hide outline    Ctrl +Alt +O    显示/隐藏轮廓
+editor    start of document    Ctrl +U    开始的文档
+editor    start of line    Meta+A    开始行
+editor    toggle comment    Ctrl +1    切换的评论
+editor    transform to lowercase    Ctrl +U    转换为小写字母
+editor    transform to uppercaer    Ctrl +Shift+U    变换大写字母
+editor    unblockcomment    Ctrl +F5    unblockcomment
+editor    undo    Ctrl +Z    撤销
+editor    yank    Meta+Y    猛拉
+editor    zoom in 1    Ctrl ++    放大1
+editor    zoom in 2    Ctrl +=    放大2
+editor    zoom out    Ctrl +-    缩小
+editor    zoom reset    Ctrl +0    变焦重置
+ipython_console    new tab    Ctrl +T    新标签页
+ipython_console    reset namespace    Ctrl +Alt+R    重置名称空间
+ipython_console    reset kernel    Ctrl +.    重置内核
+profiler    run profiler    F10    运行分析器
+pylint    run analysis    F8    运行分析
+variable_explorer    copy    Ctrl +C    复制
